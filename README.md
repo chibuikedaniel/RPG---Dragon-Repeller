@@ -13,23 +13,24 @@ Responsive Design: The game is optimized for different screen sizes and devices.
 Real-time Feedback: Instant updates on your progress and dragon’s status.
 
 # Technologies Used
-HTML: Provides the structure of the game, including game elements like characters, environment, and interface.
-CSS: Styles the game, ensuring an aesthetically pleasing and cohesive design.
+HTML: Provides the structure of the game, including game elements like characters, environment, and interface.<br>
+CSS: Styles the game, ensuring an aesthetically pleasing and cohesive design.<br>
 JavaScript: Implements the game logic, including player actions, dragon responses, and overall gameplay mechanics.
 
 How to Play
-Start the Game: Open the game in a web browser by clicking on the index.html file.
-Objective: Your goal is to defeat the dragon and save the village.
-Controls: Use the on-screen buttons or keyboard shortcuts to perform actions like attacking, defending, or using special abilities.
-Progress: Monitor your health and the dragon’s health through the status bar at the top of the screen.
+Start the Game: Open the game in a web browser by clicking on the index.html file.<br>
+Objective: Your goal is to defeat the dragon and save the village.<br>
+Controls: Use the on-screen buttons or keyboard shortcuts to perform actions like attacking, defending, or using special abilities.<br>
+Progress: Monitor your health and the dragon’s health through the status bar at the top of the screen.<br>
 Victory: Defeat the dragon to win the game and be hailed as the village hero!
+
 Installation
 To play the game locally:
 
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/RPG-Dragon-Repeller.git
+git clone (https://github.com/chibuikedaniel/RPG---Dragon-Repeller.git)
 Navigate to the project directory:
 bash
 Copy code
