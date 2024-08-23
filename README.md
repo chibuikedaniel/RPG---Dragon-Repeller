@@ -51,7 +51,7 @@ Feel free to adjust any sections as needed, especially the Contributing and Ackn
 
 easterEgg:
 for those who have read this far, there is a cheat you can use to get as much gold as you want,
-type "gold = <any amount you want>" into the console of your browser.
+type "gold = any amount you want" into the console of your browser.
 I hope you enjoy the game, leave feed backs.
 
 
